@@ -2,10 +2,19 @@
 
 ### Academic & Personal Projects
 A Variational Autoencoder for Art Restoration
-AML Challenge
-Classification & Clustering of Big Cats
-
-
+- Variational Autoencoders
+- Convolutional Neural Networks
+AML Patient Prediction
+- K-Nearest Neighbor
+- Random Forests
+- ANOVA
+- Principal Component Analysis
+Big Cats - Classification & Clustering
+- K-Nearest Neighbor
+- Support Vector Machines
+- Random Forests
+- K-Means
+- Fuzzy C-Means
 
 ### Education
 Artificial Intelligence, MSc
